@@ -1,5 +1,4 @@
 # own-projects
-actaully, links to them
 
 Projects/exercises done earlier designated time, and no longer being improved
 
