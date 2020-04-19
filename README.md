@@ -13,6 +13,3 @@ Projects/exercises done earlier designated time, and no longer being improved
 
 ### URL bookmarker app (not finished)
 [GitHub repo](https://github.com/ToTenMilan/bookmarkable-bookmarkee)
-
-### wordy-calculator
-[GitHub repo](https://github.com/ToTenMilan/calc/blob/master/calc.rb)
