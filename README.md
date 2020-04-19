@@ -2,6 +2,9 @@
 
 Projects/exercises done earlier designated time, and no longer being improved
 
+### Football tournament manager - Tournamentee
+[GitHub repo](https://github.com/ToTenMilan/tournamentee)
+
 ### Weather checker Rails app
 [GitHub repo](https://github.com/ToTenMilan/Weatheroo)
 
