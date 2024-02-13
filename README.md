@@ -1,18 +1,21 @@
-# own-projects
+# Old interview projects
 
 Projects/exercises done earlier designated time, and no longer being improved
 
-### Football tournament manager - Tournamentee
+### Football tournament manager - Tournamentee - 2020
 [GitHub repo](https://github.com/ToTenMilan/tournamentee)
 
-### Weather checker Rails app
+### Planning Poker (in terminals) - 2019
+[GitHub repo](https://github.com/ToTenMilan/poker-planning-game)
+
+### Weather checker Rails app - 2019
 [GitHub repo](https://github.com/ToTenMilan/Weatheroo)
 
-### Ruby Trello-like console MVC app
+### Ruby Trello-like console MVC app - 2019
 [GitHub repo](https://github.com/ToTenMilan/ruby-todo-mvc)
 
-### Optimizing sql queries
+### Optimizing sql queries - 2019
 [GitHub repo](https://github.com/ToTenMilan/optimizing-sql-queries)
 
-### URL bookmarker app (not finished)
+### URL bookmarker app (not finished) - 2019
 [GitHub repo](https://github.com/ToTenMilan/bookmarkable-bookmarkee)
