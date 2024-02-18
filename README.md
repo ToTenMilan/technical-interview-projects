@@ -2,6 +2,9 @@
 
 Projects/exercises done earlier designated time, and no longer being improved
 
+### CashRegisteroo - 2024
+[GitHub repo](https://github.com/ToTenMilan/cashregisteroo)
+
 ### Football tournament manager - Tournamentee - 2020
 [GitHub repo](https://github.com/ToTenMilan/tournamentee)
 
