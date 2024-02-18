@@ -1,6 +1,4 @@
-# Old interview projects
-
-Projects/exercises done earlier designated time, and no longer being improved
+# Previous technical interview projects
 
 ### CashRegisteroo - 2024
 [GitHub repo](https://github.com/ToTenMilan/cashregisteroo)
